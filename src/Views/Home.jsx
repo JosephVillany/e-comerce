@@ -4,6 +4,7 @@ import { useNavigate } from 'react-router';
 import firebaseApp from "../firebase/credenciales";
 import { getAuth, signOut } from "firebase/auth";
 import { getFirestore  } from "firebase/firestore";
+//
 
 //Logo logout
 import LogoLogout from "../Assets/logout_white_24dp.svg"
